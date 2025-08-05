@@ -1,0 +1,9 @@
+
+[
+  { "id": 1, "name": "Indigo Denim Jacket", "price": 120.00, "imageUrl": "/images/denim-jacket.png", "aiHint": "denim jacket" },
+  { "id": 2, "name": "Classic White Tee", "price": 45.00, "imageUrl": "/images/white-tee.png", "aiHint": "white t-shirt" },
+  { "id": 3, "name": "Tailored Chinos", "price": 85.00, "imageUrl": "/images/chinos.png", "aiHint": "tailored chinos" },
+  { "id": 4, "name": "Silk Blend Scarf", "price": 60.00, "imageUrl": "/images/silk-scarf.png", "aiHint": "silk scarf" },
+  { "id": 5, "name": "Leather Loafers", "price": 150.00, "imageUrl": "/images/leather-loafers.png", "aiHint": "leather loafers" },
+  { "id": 6, "name": "Linen Button-Down", "price": 95.00, "imageUrl": "/images/linen-shirt.png", "aiHint": "linen shirt" }
+]
