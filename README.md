@@ -1,4 +1,6 @@
-Live Demo https://style-trader.vercel.app/
+## Site
+ ** https://style-trader.vercel.app/
+
 # StyleTrader: Your AI-Powered Fashion Stylist
 
 StyleTrader is a modern web application that acts as your personal AI fashion stylist. Describe the look you're going for, and the app will generate a complete outfit for you, complete with clothing suggestions, a visual representation, and an audio summary.
